@@ -46,6 +46,7 @@ Contents
 
 # GitHub
 
+- [gitify](https://github.com/ekonstantinidis/gitify) GitHub Notifications on your menu bar.
 - [twitter-for-github](https://github.com/bevacqua/twitter-for-github) Twitter handles for GitHub
 - [octotree](https://github.com/buunguyen/octotree) Code tree for GitHub and GitLab
 - [isometric-contributions](https://github.com/jasonlong/isometric-contributions) Render an isometric pixel art version of your contribution graph in Chrome and Safari.
