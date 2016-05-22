@@ -52,7 +52,7 @@ Contents
 - [isometric-contributions](https://github.com/jasonlong/isometric-contributions) Render an isometric pixel art version of your contribution graph in Chrome and Safari.
 - [github-s3](https://github.com/hyperoslo/github-s3) Shell scripts that make it really easy to archive and restore repositories between GitHub and AWS S3
 - [mention-bot](https://github.com/facebook/mention-bot) Automatically mention potential reviewers on pull requests.
-
+- [github-extended](https://github.com/onmyway133/github-extended) A Chrome extension to discover more repositories
 
 # Commands
 
