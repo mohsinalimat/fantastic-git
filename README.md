@@ -462,3 +462,7 @@ git merge -X theirs branchB
 git checkout feature1
 git merge --no-ff master
 ```
+
+Licence
+--
+This project is released under the MIT license. See LICENSE.md.
